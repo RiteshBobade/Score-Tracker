@@ -4,7 +4,7 @@ A sleek, responsive web application to track and manage scores in real-time. Bui
 
 ## 🚀 Live Demo
 
-🔗 [score-tracker-m5r7.vercel.app](https://score-tracker-m5r7.vercel.app)
+🔗 [score-tracker](https://score-tracker-m5r7.vercel.app)
 
 ## 🛠️ Features
 
